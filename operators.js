@@ -5,7 +5,12 @@
 // Create two variables, num1 and num2, and assign them any two numbers of your choice.
 // Add the two numbers and store the result in a new variable called sum.
 // Print the result using console.log()..
-
+let num1 = 3
+let num2 = 9
+let sum = 12
+console.log(num1);
+console.log(num2);
+console.log(sum);
 
 
 // 2. Subtraction
